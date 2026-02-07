@@ -34,9 +34,3 @@ This project focuses on implementing **Multiple Linear Regression (MLR)** on an 
 - Trained an MLR model to capture relationships between economic indicators and the target variable  
 - Observed how different features contribute to the prediction  
 - Analyzed model fit using error metrics and R² score  
-
-## Next Steps
-- Try regularization techniques (Ridge, Lasso)  
-- Perform feature selection  
-- Validate model on a different dataset  
-- Compare performance with tree-based models

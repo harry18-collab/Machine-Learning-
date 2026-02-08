@@ -17,9 +17,10 @@ Ordinary Least Squares (OLS) to understand how model parameters are estimated.
 - Evaluated basic error (e.g., MSE)
 
 
-## 🧠 Learnings
+## Learnings
 - Difference between OLS (analytical solution) and **Gradient Descent (iterative optimization)**
 - Understanding slope(m) and intercept(c)
 - Loss function (MSE) and how OLS minimizes it
 - Importance of data visualization in regression
+
 
